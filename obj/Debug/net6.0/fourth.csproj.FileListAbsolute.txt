@@ -1,0 +1,15 @@
+E:\Mdt211\homework\fourth\bin\Debug\net6.0\fourth.exe
+E:\Mdt211\homework\fourth\bin\Debug\net6.0\fourth.deps.json
+E:\Mdt211\homework\fourth\bin\Debug\net6.0\fourth.runtimeconfig.json
+E:\Mdt211\homework\fourth\bin\Debug\net6.0\fourth.dll
+E:\Mdt211\homework\fourth\bin\Debug\net6.0\fourth.pdb
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.csproj.AssemblyReference.cache
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.AssemblyInfoInputs.cache
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.AssemblyInfo.cs
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.csproj.CoreCompileInputs.cache
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.dll
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\refint\fourth.dll
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.pdb
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\fourth.genruntimeconfig.cache
+E:\Mdt211\homework\fourth\obj\Debug\net6.0\ref\fourth.dll
