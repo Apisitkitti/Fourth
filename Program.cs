@@ -3,10 +3,20 @@ public class Program_4
 {
     public static void Main(string[] args)
     {
-        Abs MinustoPlus = new Abs (-1);
         string Input = Input_Num();
         int changer = StringToInt(Input);
-        Console.WriteLine("{0}",MinustoPlus.NumToPlus(changer));
+        bool Checker = Check(changer);
+        while(Checker == true)
+        {
+            Console.WriteLine("{0}",-changer);
+            break;
+        }
+        while(Checker == false)
+        {
+             Console.WriteLine("{0}",changer);
+            break;
+        }
+
         
     }
     public static string Input_Num ()
@@ -21,22 +31,16 @@ public class Program_4
         return Value;
         
     }
-    
-    
-    
-    
-}
-public class Abs
-{
-    private int Num;
-    public Abs(int Num)
+    public static bool Check(int x)
     {
-        this.Num = Num;
+        
+        return x<0;
+        
     }   
-    public int NumToPlus(int new_Number)
-    {
-        return new_Number*this.Num;
-    }
+    
+    
 }
+
+
 
 
